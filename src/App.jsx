@@ -1,6 +1,6 @@
 import Hero from "./Componets/Hero/Hero";
 import Navbar from "./Componets/Navbar/Navbar";
-import HeroImg from "./Assets/hero.jpg";
+import HeroImg from "./assets/hero.jpg";
 import Explore from "./Componets/Explore/Explore";
 import Journal from "./Componets/Journal/Journal";
 import Footer from "./Componets/Footer/Footer";
