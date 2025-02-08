@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import Logo from "../../Assets/logo.png";
+import Logo from "../../assets/logo.png";
 import { SlideBottom } from "../../utility/animation";
 
 const Navbar = () => {

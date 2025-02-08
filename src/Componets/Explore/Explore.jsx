@@ -1,6 +1,6 @@
-import Img1 from "../../Assets/1.jpg";
-import Img2 from "../../Assets/2.jpg";
-import Img3 from "../../Assets/3.jpg";
+import Img1 from "../../assets/1.jpg";
+import Img2 from "../../assets/2.jpg";
+import Img3 from "../../assets/3.jpg";
 import { motion } from "motion/react";
 import { SlideUp } from "../../utility/animation";
 
